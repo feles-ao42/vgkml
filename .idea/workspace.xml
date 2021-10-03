@@ -5,26 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ac156cf-0ef3-4346-989f-09fb1bc854e5" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/vgfront/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/reportWebVitals.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/src/setupTests.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgfront/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgfront/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +66,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/vgfront/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -79,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633184987362</updated>
-      <workItem from="1633184990322" duration="2040000" />
+      <workItem from="1633184990322" duration="4249000" />
     </task>
     <servers />
   </component>
