@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <title>Test Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            height: 80%;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <ul>
+        A
+        lat: <span id="a-lat"></span>
+        lng: <span id="a-lng"></span>
+    </ul>
+    <ul>
+        B
+        lat: <span id="b-lat"></span>
+        lng: <span id="b-lng"></span>
+    </ul>
+
+    <input type="button" value="getkml" onclick="check_ab();" /><br />
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWjBubBc9e56MsobXLN-7UThP5Z5xz-D4&callback=initMap"></script>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</body>
+
+</html>
